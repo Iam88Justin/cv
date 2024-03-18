@@ -71,7 +71,6 @@ export const RESUME_DATA = {
       end: "2023",
       description:
         "Leveraged R and linear regression analysis to refine cryptocurrency market size forecasts, achieving a 90% reduction in prediction interval width compared to initial research. Conducted comprehensive market research and competitor analysis on cryptocurrency, consistently receiving positive feedback for impactful data visualizations with Tableau.Synthesized complex research findings and drew actionable conclusions, effectively communicating them to the team of 7 and the client through clear visualization and reports."
-
     },
     {
       company: "National Taiwan University",
@@ -96,16 +95,15 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Consultly",
+      title: "Python Backend Development",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "Django REST Framework",
+        "Python",
+        "JavaScript",
+        "HTML",
+        "CSS",
       ],
-      description: "A platform to build and grow your online business",
+      description: "Outline the concepts that exist in most UI frameworks using bootstrap as an example to directly reference common practice. Use the Bootstrap CSS Framework to create webpages Leverage bootstrap documentation to reproduce and modify CSS components. The basics of react in relation to other frameworks and web technologies.",
       logo: ConsultlyLogo,
       link: {
         label: "consultly.com",
@@ -113,10 +111,10 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Monito",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
+      title: "Minimalist Resume",
+      techStack: ["TypeScript", "Next.js", "JavaScript", "Git", "React.js"],
       description:
-        "Browser extension that records everything happening in a web application",
+        "Simple web app that renders minimalist CV with print-friendly layout. Built using Next.js 14, React, Typescript, Shadcn/ui, TailwindCss. Optimized for Next.js and Vercel.",
       logo: MonitoLogo,
       link: {
         label: "monito.dev",
@@ -124,10 +122,10 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Jarocki.me",
-      techStack: ["Side Project", "Next.js", "MDX"],
+      title: "Rat Calls Detection",
+      techStack: ["Digital Signal Processors", "Next.js", "Neural Networks", "Leadership", "Data Analysis", "Statistical Modeling"],
       description:
-        "My personal website and blog. Built with Next.js and Notion API",
+        "Detected noise sources in audio files with pattern recognition in R language and performed signal preprocessing",
       logo: JarockiMeLogo,
       link: {
         label: "github.com",
@@ -135,10 +133,10 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Minimal",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      title: "NoSQL Data Analysis",
+      techStack: ["MongoDB", "Cassandra", "Apache Spark", "Data Analysis"],
       description:
-        "Minimalist calendars, habit trackers and planners generator",
+        "Optimized Cassandra queries by creating indices for a dataset of 1.7 million rows on Docker, reducing the analysis process from tens of hours to one minute",
       logo: Minimal,
       link: {
         label: "useminimal.com",
@@ -146,8 +144,8 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Barepapers",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      title: "House Prices Prediction",
+      techStack: ["Machine Learning", "Web Crawling", "Python", "Statistics Methods"],
       description:
         "Generates beautiful wallpapers using random shapes and gradients",
       logo: BarepapersLogo,
@@ -157,103 +155,14 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Year progress",
-      techStack: ["Side Project", "TypeScript", "Next.js"],
-      description: "Tracks current year progress and displays a countdown",
+      title: "Traveling Salesman Problem",
+      techStack: ["C++", "Research and Development", "Testing", "GitHub"],
+      description: "Designed and Implemented Branch-and-Bound Depth-First Search for a common unsolved routing problem.",
       logo: YearProgressLogo,
       link: {
         label: "getyearprogress.com",
         href: "https://getyearprogress.com/",
       },
-    },
-    {
-      title: "Parabol",
-      techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
-      logo: ParabolLogo,
-      link: {
-        label: "github.com",
-        href: "https://parabol.co/",
-      },
-    },
-    {
-      title: "Evercast",
-      techStack: [
-        "Lead Frontend Developer",
-
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
-      logo: EvercastLogo,
-      link: {
-        label: "evercast.us",
-        href: "https://www.evercast.us/",
-      },
-    },
-    {
-      title: "Mobile Vikings",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for leading virtual mobile operator in Poland",
-      logo: MobileVikingsLogo,
-      link: {
-        label: "mobilevikings.pl",
-        href: "https://mobilevikings.pl/",
-      },
-    },
-    {
-      title: "Howdy",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Howdy is a place for you to join communities you care about",
-      logo: Howdy,
-      link: {
-        label: "play.google.com",
-        href: "https://howdy.co/",
-      },
-    },
-    {
-      title: "Tastycloud",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for managing and displaying restaurant menus in kiosk mode",
-      logo: TastyCloudLogo,
-      link: {
-        label: "tastycloud.fr",
-        href: "https://www.tastycloud.fr/",
-      },
-    },
-    {
-      title: "Ambit",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with sharing your contact details",
-      logo: AmbitLogo,
-    },
-    {
-      title: "Bim",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with booking a table in a restaurants",
-      logo: BimLogo,
-    },
-    {
-      title: "Canal Digital GO",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Video streaming mobile application for Canal Digital subscribers",
-      logo: CDGOLogo,
     },
   ],
 } as const;
