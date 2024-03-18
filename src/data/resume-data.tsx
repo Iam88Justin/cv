@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Data Science Master's Grad with Python, SQL & Machine Learning Expertise",
   summary:
     "As a new grad in Data Science, I conduct research in machine learning and data analysis. Actively looking for Software Engineering and Data Scientist positions. I am also a fast learner of new technologies, applying advanced techniques and methods, such as deep learning, neural networks, and digital signal processors, to solve real-world problems. With a Bachelor's degree in Computer Science, I developed a strong foundation in programming and data structures. I am passionate about using my skills and knowledge to create innovative and impactful solutions for the future.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "/profile.jpg",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "justinchenlin@gmail.com",
@@ -64,34 +64,35 @@ export const RESUME_DATA = {
     {
       company: "Mentor Global",
       link: "https://parabol.co",
-      badges: ["Remote"],
+      badges: ["Irvine"],
       title: "Data Analyst",
       logo: ParabolLogo,
       start: "2023",
-      end: "2024",
+      end: "2023",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "Leveraged R and linear regression analysis to refine cryptocurrency market size forecasts, achieving a 90% reduction in prediction interval width compared to initial research. Conducted comprehensive market research and competitor analysis on cryptocurrency, consistently receiving positive feedback for impactful data visualizations with Tableau.Synthesized complex research findings and drew actionable conclusions, effectively communicating them to the team of 7 and the client through clear visualization and reports."
+
     },
     {
       company: "National Taiwan University",
       link: "https://clevertech.biz",
       badges: ["Remote"],
-      title: "Lead Android Developer → Full Stack Developer",
+      title: "Research Assistant",
       logo: ClevertechLogo,
       start: "2019",
       end: "2020",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "Achieved a 67% reduction in testing time through the development and implementation of automated test case generation scripts in C/C++ and presented in a research paper report with Overleaf. Migrated the network system and scripted automation in the Linux environment, leading to a 50%+ reduction in both processing time and latency, which minimized delays and improved user experience. Applied gradient descent and simulated annealing to optimize the scheduling system, resulting in a 90% reduction in total response time, significantly enhancing performance and responsiveness.",
     },
   ],
   skills: [
-    "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "Python",
+    "C/ C++",
+    "Django",
+    "Linux Programming",
+    "Git version control",
+    "SQL",
+    "R programming",
   ],
   projects: [
     {
